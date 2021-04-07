@@ -27,6 +27,12 @@
         android:defaultValue="true" />
 
     <com.ssos.support.preferences.SystemSettingSwitchPreference
+        android:key="artwork_media_background"
+        android:title="@string/artwork_media_background_title"
+        android:summary="@string/artwork_media_background_summary"
+        android:defaultValue="true" />
+
+    <com.ssos.support.preferences.SystemSettingSwitchPreference
         android:key="qs_show_battery_estimate"
         android:title="@string/qs_show_battery_estimate_title"
         android:summary="@string/qs_show_battery_estimate_summary"
