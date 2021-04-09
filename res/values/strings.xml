@@ -754,4 +754,9 @@ Aggressive Standby is a feature that stops apps from running in the background a
     <string name="artwork_media_background_title">Artwork media background</string>
     <string name="artwork_media_background_summary">Set media artwork as notification media background</string>
 
+    <!-- QS statusbar background -->
+    <string name="qs_header_background_title">Statusbar background</string>
+    <string name="qs_header_background_black">Black</string>
+    <string name="qs_header_background_transparent">Transparent</string>
+
 </resources>
