@@ -55,6 +55,7 @@ public class GestureOptions extends GestureSettings implements
     private static final String KEY_GESTURE_GLOBAL_ACTIONS_PANEL = "gesture_global_actions_panel_summary";
     private static final String KEY_GESTURE_ADAPTIVE_PLAYBACK = "gesture_adaptive_playback_summary";
     private static final String KEY_VOLUME_SKIP_TRACK = "gesture_volume_skiptrack_summary";
+    private static final String KEY_DOUBLE_TAP_POWER_FLASHLIGHT = "double_tap_power_flashlight_summary";
 
     private ContentResolver mContentResolver;
 
